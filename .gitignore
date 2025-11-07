@@ -1,0 +1,30 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+env/
+.tumor_env/
+tumor_env/
+
+# Data files
+*.csv
+*.zip
+*.h5
+*.pkl
+*.npz
+
+# Streamlit cache
+.streamlit/
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+data/
